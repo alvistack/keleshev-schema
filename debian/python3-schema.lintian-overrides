@@ -1,0 +1,4 @@
+python3-schema: copyright-without-copyright-notice
+python3-schema: initial-upload-closes-no-bugs
+python3-schema: no-manual-page
+python3-schema: zero-byte-file-in-doc-directory
