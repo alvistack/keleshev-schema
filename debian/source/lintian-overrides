@@ -1,0 +1,5 @@
+python-schema source: file-without-copyright-information
+python-schema source: no-debian-changes
+python-schema source: source-contains-prebuilt-windows-binary
+python-schema source: source-is-missing
+python-schema source: source-package-encodes-python-version
